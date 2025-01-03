@@ -1,5 +1,8 @@
 # Foro Hub - API REST
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f2922649-1a60-4c6a-8b5c-ac0a00ff4c97" alt="Logo de proyecto" width="600">
+
 Foro Hub es un proyecto desarrollado como parte del **Challenge Back End de Alura Next Education**.  
 El objetivo del desafío es replicar la funcionalidad de un foro a nivel de back end, permitiendo a los usuarios crear, visualizar, actualizar y eliminar tópicos utilizando tecnologías modernas y siguiendo las mejores prácticas de desarrollo.
 
